@@ -1,0 +1,23 @@
+.linea{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+#app{
+    background-color: #b8a3d9;
+}
+#juegos{
+    background-color: #a3fcff;
+}
+#chatbot{
+    background-color: #f76565;
+}
